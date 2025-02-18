@@ -15,12 +15,12 @@
                     </a>
                 </div>
                 <div class="link-card">
-                    <a href="https://www.youtube.com/@MaidNenes" target="_blank">
+                    <a href="https://www.instagram.com/maidnenes/" target="_blank">
                         <div class="link-img">
-                            <img src="@/assets/img/youtube.svg" alt="Youtube" width="50px" height="50px">
+                            <img src="@/assets/img/instagram.svg" alt="Instagram" width="50px" height="50px">
                         </div>
                         <div class="link-content">
-                            <p class="link-title">Youtube</p>
+                            <p class="link-title">Instagram</p>
                         </div>
                     </a>
                 </div>
